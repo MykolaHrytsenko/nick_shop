@@ -1,0 +1,13 @@
+body {
+    background-color: aquamarine;
+
+}
+
+.container {
+    text-align: center;    
+    
+    background-image: url(../1599834369_32.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: center;
+}
